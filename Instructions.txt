@@ -1,0 +1,5 @@
+1. Create virtual environment and install required packages 
+2. django-admin startproject project_name
+3. python manage.py runserver 
+4. Create app: python manage.py startapp graph
+5. Register app: in settings.py installed apps = ['graph']
